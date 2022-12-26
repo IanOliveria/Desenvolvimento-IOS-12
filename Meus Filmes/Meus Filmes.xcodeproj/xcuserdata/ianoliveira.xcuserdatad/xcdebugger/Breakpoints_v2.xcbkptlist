@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E4C02EB3-A12D-4948-8A49-A309B14CCB1F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meus Filmes/DetalheFilmeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetalheFilmeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817 - d4413a43c297de7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_Filmes.DetalheFilmeViewController.tituloLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Meus Filmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ianoliveira/Documents/ProjetosiOS11/Meus%20Filmes/Meus%20Filmes/DetalheFilmeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817 - 30624078d0b87a61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_Filmes.DetalheFilmeViewController.tituloLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Meus Filmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ianoliveira/Documents/ProjetosiOS11/Meus%20Filmes/Meus%20Filmes/DetalheFilmeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817 - 43e29f62b554757e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_Filmes.DetalheFilmeViewController.tituloLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Meus Filmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ianoliveira/Documents/ProjetosiOS11/Meus%20Filmes/Meus%20Filmes/DetalheFilmeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817 - adf6a2d43a895972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_Filmes.DetalheFilmeViewController.tituloLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Meus Filmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ianoliveira/Documents/ProjetosiOS11/Meus%20Filmes/Meus%20Filmes/DetalheFilmeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817 - 6635f94881401651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_Filmes.DetalheFilmeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Meus_Filmes.DetalheFilmeViewController"
+                  moduleName = "Meus Filmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ianoliveira/Documents/ProjetosiOS11/Meus%20Filmes/Meus%20Filmes/DetalheFilmeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "52C5D61B-7882-432E-B82A-EDAEA305E817 - 39b4ed79693d720f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_Filmes.DetalheFilmeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Meus_Filmes.DetalheFilmeViewController&gt;"
+                  moduleName = "Meus Filmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ianoliveira/Documents/ProjetosiOS11/Meus%20Filmes/Meus%20Filmes/DetalheFilmeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
